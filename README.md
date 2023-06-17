@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps and Cloud
 - 🌱 I’m currently learning various DevOps tools and practices to enhance my skills.
 - 💞️ I’m looking to collaborate on projects related to automation, infrastructure management, and cloud deployments.
-- 📫 How to reach me: You can reach me through email at me@cadromus.com or connect with me on Linkedin at @cadr0mus.
+- 📫 You can reach me through email at me@cadromus.com or connect with me on Linkedin at @cadr0mus.
 - 👨‍💻 Feel free to reach out if you have any questions or if you're interested in collaborating on DevOps or cloud-related projects.
 
 <!---
